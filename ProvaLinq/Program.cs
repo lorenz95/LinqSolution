@@ -71,14 +71,6 @@ namespace ProvaLinq
                 Console.Write(" item = " + item);
             }
 
-            if (duplicates == duplicates2)
-            {
-                Console.WriteLine("Madonna ladra e vigliacca");
-            } else
-            {
-                Console.WriteLine("Dio non c'è");
-            }
-
             //Console.WriteLine("Duplicate1 \n");
             //foreach (var item in duplicates)
             //{
